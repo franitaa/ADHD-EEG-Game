@@ -31,9 +31,14 @@ Sin embargo, para los sujetos ADHD sólo se halla disponible la información de 
   * High-beta: 21-30 Hz, estrés significativo, ansiedad, paranoia y alta energía
   * Gamma: > 30 Hz, función cognitiva
 
-Sería esperable ver variaciones en los ritmos beta y gamma entre los dos grupos.
-
+Es esperable ver variaciones en los ritmos beta y gamma entre los dos grupos.
 
 ## Objetivos
 
-La finalidad de este proyecto será hallar diferencias relevantes entre las señales de EEG de ambos grupos para clasificarlos en ADHD y control. Además, con un algoritmo de aprendizaje no supervisado se buscará caracterizar las diferencias entre el sujeto que recibió el tratamiento, y los grupos de ADHD y control.
+La finalidad de este proyecto será hallar diferencias relevantes entre las características señales de EEG de ambos grupos para clasificarlos en ADHD y control. Además, con un algoritmo de aprendizaje no supervisado se buscará caracterizar las diferencias entre el sujeto que recibió el tratamiento, y los grupos de ADHD y control.
+
+## Bibliografía
+[1] Alaa Eddin Alchalabi, Shervin Shirmohammadi, Amer Nour Eddin, and M. Elsharnouby, “FOCUS: Detecting ADHD patients by an EEG-based serious game,” ResearchGate, Jun. 2018. https://www.researchgate.net/publication/325522566_FOCUS_Detecting_ADHD_patients_by_an_EEG-based_serious_game (accessed Jun. 02, 2024).
+‌
+
+[2] H. Diaz, Fernando Maureira Cid, J. Otarola, and L. Cañete, “EEG Beta band frequency domain evaluation for assessing stress and anxiety in resting, eyes closed, basal...,” ResearchGate, Dec. 29, 2019. https://www.researchgate.net/publication/338281912_EEG_Beta_band_frequency_domain_evaluation_for_assessing_stress_and_anxiety_in_resting_eyes_closed_basal_conditions (accessed Jun. 02, 2024).
