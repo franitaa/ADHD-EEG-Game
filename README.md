@@ -37,6 +37,13 @@ Variations in beta and gamma rhythms are expected between the two groups.
 ## Objectives
 The goal of this project is to find relevant differences between the EEG signal features of both groups in order to classify them as ADHD or control. Additionally, using an unsupervised learning algorithm, we aim to characterize the differences between the subject who received treatment and the ADHD and control groups.
 
+## Results
+
+While the trained models did not offer acceptable accuracy for our goals, we did achieve good data separation through UMAP and t-SNE. This is consisent with non-linear correlation, as can be demonstrated through the Spearman heatmap as well.
+
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/2463dceb-0fcf-4a96-8c73-2a66a098ac93" />
+
+
 ------------------------------------------
 
 ## Introducción
